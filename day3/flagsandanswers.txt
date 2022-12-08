@@ -1,0 +1,5 @@
+Registrar: NAMECHEAP INC
+FLAG: {THM_OSINT_WORKS}
+File Name: config.php
+QA Server Name: qa.santagift.shop
+DB_PASSWORD: S@nta2022

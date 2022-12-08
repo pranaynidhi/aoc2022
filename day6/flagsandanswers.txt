@@ -1,0 +1,10 @@
+Sender Email Address: chief.elf@santaclaus.thm
+Return Address: murphy.evident@bandityeti.thm
+On behalf of: Chief Elf
+X-Spam Score: 3
+Message-ID Field: AoC2022_Email_Anlalysis
+Reputation Result: Risky
+Attachment Filename: Division_of_labour-Load_share_plan.doc
+Attachment Hash Value: 0827bb9a2e7c0628b82256759f0f888ca1abd6a2d903acdb8e44aca6a1a03467
+Mitre ATT&CK Marked Section: Defense Evasion
+File Subcategory: macro_hunter

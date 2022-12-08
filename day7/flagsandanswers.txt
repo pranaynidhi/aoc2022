@@ -1,0 +1,5 @@
+CyberChef Version: 9.49.0
+Recipes Used: 10
+Malware Name: mysterygift.exe
+Defanged URL of the bandityeti Domain: hxxps[://]cdn[.]bandityeti[.]THM/files/index/
+Ticket Found: THM_MYSTERY_FLAG

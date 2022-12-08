@@ -1,0 +1,2 @@
+Adversary Name: The Bandit Yeti
+FLAG: THM{IT'S A Y3T1 CHR1$TMA$}

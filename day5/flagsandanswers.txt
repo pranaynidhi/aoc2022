@@ -1,0 +1,2 @@
+Password: 1q2w3e4r
+FLAG: THM{I_SEE_YOUR_SCREEN}

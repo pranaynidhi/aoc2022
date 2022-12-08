@@ -1,0 +1,6 @@
+No. of Files: 2
+Name of Log File: webserver.log
+Day: Friday
+IP Address: 10.10.249.191
+List Name: santaslist.txt
+FLAG: THM{STOLENLIST}

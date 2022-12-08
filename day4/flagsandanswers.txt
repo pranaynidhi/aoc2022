@@ -1,0 +1,5 @@
+Server Name: Apache
+Service on Port 22: ssh
+FLAG: {THM_SANTA_SMB_SERVER}
+Password: santa25
+
