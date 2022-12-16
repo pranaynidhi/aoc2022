@@ -1,0 +1,7 @@
+Name: Unrestricted
+Web Application Title: SantaSideKick2
+FLAG: THM{Naughty.File.Uploads.Can.Get.You.RCE}
+Defence Technique for Specific File Types: File Extension Validation
+Defence Technique for File Name Change: File Renaming
+Defence Technique for Malicious Files: Malware Scanning
+
