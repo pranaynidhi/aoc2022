@@ -1,0 +1,2 @@
+GUARD'S FLAG: THM{5_star_Fl4gzzz}
+YETI'S FLAG: THM{yetiyetiyetiflagflagflag}
