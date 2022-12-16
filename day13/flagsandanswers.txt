@@ -1,0 +1,11 @@
+HTTP Packet%: 0.3
+Port with more than 1000 packets: 3389
+Service Name with more than 1000 packets: RDP
+Domain Names: bestfestivalcompany[.]thm,cdn[.]bandityeti[.]thm
+Requested File Names: favicon[.]ico,mysterygift[.]exe
+Downloaded Executable File: 10[.]10[.]29[.]186
+Domain hosting Malicious File: cdn[.]bandityeti[.]thm
+User-Agent: Nim httpclient/1.6.8
+SHA256 Hash Value: 0ce160a54d10f8e81448d0360af5c2948ff6a4dbb493fe4be756fc3e2c3f900f
+Connected IP Address: 20[.]99[.]133[.]109,20[.]99[.]184[.]37,23[.]216[.]147[.]64,23[.]216[.]147[.]76
+

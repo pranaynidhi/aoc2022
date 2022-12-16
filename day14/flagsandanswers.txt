@@ -1,0 +1,2 @@
+Elf Pivot McRed Office Number: 134
+FLAG: THM{CLOSE_THE_DOOR}
