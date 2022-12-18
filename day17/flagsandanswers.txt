@@ -1,0 +1,9 @@
+No. of Usernames: 8
+Username: User35
+No. of Emails: 11
+Unique Domains in Emails: 8
+"lewisham44" Local-part Domain: amg.com
+"maxximax" Local-part Domain: fedfull.com
+Local-part with Domain "hotmail.com": hussain.volt
+No. of URLs: 16
+URLs with https: 7

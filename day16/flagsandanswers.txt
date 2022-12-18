@@ -1,0 +1,4 @@
+FLAG1: THM{McCode, ElfMcCode}
+FLAG2: THM{KodeNRoll}
+FLAG3: THM{Are we secure yet?}
+FLAG4: THM{SQLi_who???}
