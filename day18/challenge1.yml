@@ -1,0 +1,26 @@
+title: Local Account Creation Detection
+id: #uuid
+status: experimental
+description: To detect account creation
+author: pranaynidhi
+date: 18/12/2022
+
+logsource:
+    product: windows
+    service: security
+    category: 
+
+detection:
+    selection:
+        EventID:
+          - 4720
+
+    condition: selection
+
+falsepositives:
+
+level: low
+
+tags:
+    - attack.persistence
+    - attack.T1136.001
