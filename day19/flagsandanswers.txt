@@ -1,0 +1,9 @@
+Device used to probe signals: Logic Analyser
+USART is faster than SPI for communications?: Nay
+USART communication uses fewer wires than SPI?: Yea
+USART is faster than I2C for communication?: Nay
+I2C uses more wires than SPI for communication?: NAy
+SPI is faster than I2C for communication?: Yea
+Maximum No. of Devices that can be connected to a single pair of I2C lines: 1008
+New Baud Rate: 9600
+FLAG: THM{Hackin.Hardware.Is.Fun}

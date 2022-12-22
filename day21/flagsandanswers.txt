@@ -1,0 +1,4 @@
+Port No.: 1883
+Is device/init enumerated by Nmap?: y
+Mosquitto Version: 1.6.9
+FLAG: THM{UR_CAMERA_IS_MINE}

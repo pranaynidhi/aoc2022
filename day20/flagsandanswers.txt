@@ -1,0 +1,3 @@
+FLAG: THM{WE_GOT_THE_FIRMWARE_CODE}
+Paraphrase: Santa@2022
+Build no. of rootfs: 2.6.31
